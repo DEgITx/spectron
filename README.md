@@ -3,11 +3,9 @@
 [![CI](https://github.com/electron-userland/spectron/workflows/CI/badge.svg)](https://github.com/electron-userland/spectron/actions) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 [![dependencies](https://img.shields.io/david/electron/spectron.svg)](https://david-dm.org/electron/spectron) [![license:mit](https://img.shields.io/badge/license-mit-blue.svg)](https://opensource.org/licenses/MIT) [![npm:](https://img.shields.io/npm/v/spectron.svg)](https://www.npmjs.com/package/spectron) [![downloads](https://img.shields.io/npm/dm/spectron.svg)](https://www.npmjs.com/package/spectron)
 
-### 🚨 Spectron is officially deprecated as of February 1, 2022.
+### 🚨 Spectron Fork.
 
-Easily test your [Electron](http://electron.atom.io) apps using
-[ChromeDriver](https://sites.google.com/chromium.org/driver) and
-[WebdriverIO](http://webdriver.io).
+This fork support electron 19 and version higher.
 
 ## Version Map
 
@@ -40,6 +38,8 @@ For given versions of Electron you must depend on a very specific version range 
 | `^15.0.0` | `^17.0.0`|
 | `^16.0.0` | `^18.0.0`|
 | `^17.0.0` | `^19.0.0`|
+| `^18.0.0` | `^20.0.0`|
+| `^19.0.0` | `^21.0.0`|
 
 Learn more from [this presentation](https://speakerdeck.com/kevinsawicki/testing-your-electron-apps-with-chromedriver).
 
