@@ -28,7 +28,7 @@
   "dependencies": {
     "@electron/remote": "2.0.8",
     "dev-null": "^0.1.1",
-    "electron-chromedriver": "21.0.0",
+    "electron-chromedriver": "22.0.0",
     "got": "^11.8.0",
     "split": "^1.0.1",
     "webdriverio": "7.25.1"
